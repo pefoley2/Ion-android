@@ -3,7 +3,7 @@ jdk: oraclejdk8
 
 env:
     matrix:
-        - ANDROID_TARGET=android-23 ANDROID_ABI=x86_64
+        - ANDROID_TARGET=android-23 ANDROID_ABI=x86
 
 sudo: false
 
