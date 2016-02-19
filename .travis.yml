@@ -2,4 +2,7 @@ language: android
 sudo: false
 android:
     components:
-        - build-tools
+        - platform-tools
+        - tools
+        - build-tools-23.0.2
+        - android-23
